@@ -3,7 +3,7 @@
   "name": "io.github.pooriaarab/benchmark-accessibility-fix",
   "description": "Benchmark that grades HTML accessibility repairs: alt text, labels, contrast, keyboard support.",
   "version": "0.1.0",
-  "repository": { "url": "https://github.com/pooriaarab/benchmark-accessibility-fix", "source": "github" },
+  "repository": { "url": "https://github.com/itsryanarmani/benchmark-accessibility-fix", "source": "github" },
   "packages": [{
     "registryType": "npm", "registryBaseUrl": "https://registry.npmjs.org", "identifier": "benchmark-accessibility-fix", "version": "0.1.0",
     "transport": { "type": "stdio" }, "runtimeHint": "npx",
