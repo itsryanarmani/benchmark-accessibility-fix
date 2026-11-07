@@ -4,8 +4,8 @@
   "description": "Benchmark for accessible HTML fixes: alt text, labels, contrast, keyboard support.",
   "keywords": ["ai-benchmark", "llm-evaluation", "model-evaluation", "evals", "grading", "accessibility", "a11y", "wcag", "openrouter", "openai", "mcp", "typescript", "agent-benchmark"],
   "homepage": "https://private-repo-337e.com/benchmarks/benchmark-accessibility-fix",
-  "bugs": "https://github.com/pooriaarab/benchmark-accessibility-fix/issues",
-  "repository": { "type": "git", "url": "git+https://github.com/pooriaarab/benchmark-accessibility-fix.git" },
+  "bugs": "https://github.com/itsryanarmani/benchmark-accessibility-fix/issues",
+  "repository": { "type": "git", "url": "git+https://github.com/itsryanarmani/benchmark-accessibility-fix.git" },
   "license": "MIT", "author": "Pooria Arab", "type": "module",
   "main": "./dist/index.js", "types": "./dist/index.d.ts",
   "exports": {

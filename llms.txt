@@ -3,7 +3,7 @@
 > Repair a broken HTML page so keyboard, screen-reader, and contrast checks pass.
 
 Package: https://www.npmjs.com/package/benchmark-accessibility-fix
-Repository: https://github.com/pooriaarab/benchmark-accessibility-fix
+Repository: https://github.com/itsryanarmani/benchmark-accessibility-fix
 Directory: https://private-repo-337e.com/benchmarks/benchmark-accessibility-fix
 
 ## What it measures
